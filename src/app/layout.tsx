@@ -7,7 +7,7 @@ const playfair = Playfair_Display({
   subsets: ["latin"],
   variable: "--font-serif",
 });
-
+ // delete ActionSection
 // ⚠️ NHỚ đổi domain sau khi deploy
 const siteUrl = "https://your-project.vercel.app";
 
