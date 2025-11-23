@@ -9,7 +9,7 @@ const playfair = Playfair_Display({
 });
 
 const siteUrl =
-  "https://graduation-invitation-1yqop17n5-devhuynhs-projects.vercel.app";
+  "https://graduation-invitation-liard.vercel.app";
 
 export const metadata: Metadata = {
   title: "Graduation Ceremony Invitation",
