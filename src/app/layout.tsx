@@ -7,9 +7,8 @@ const playfair = Playfair_Display({
   subsets: ["latin"],
   variable: "--font-serif",
 });
- // delete ActionSection
-// ⚠️ NHỚ đổi domain sau khi deploy
-const siteUrl = "https://your-project.vercel.app";
+const siteUrl =
+  "https://graduation-invitation-cb6jhut0u-devhuynhs-projects.vercel.app";
 
 export const metadata: Metadata = {
   title: "Graduation Ceremony Invitation",
